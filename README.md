@@ -1,5 +1,9 @@
-GroundStudio
+GroundStudio Dali-2
 ====================================
+![groundstudio-dali-2](https://github.com/GroundStudio/GroundStudio_Dali-2/assets/77836107/e918852a-882e-44f3-a831-a9f41f2a5dab)
+
+
+
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/2657-groundstudio-dali-2.html)
 
@@ -8,6 +12,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 Description
 -------------------
 This module can be used to convert the logic signal of a microcontroller from 5V to DALI bus level (9.5 V - 22.5 V) and control lighting systems compatible with the DALI-2 communication protocol.
+
 It can be used together with a development board to control smart lighting systems that use the Dali-2 standard.
 
 Contents
