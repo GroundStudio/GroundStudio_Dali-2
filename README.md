@@ -1,22 +1,20 @@
 GroundStudio
 ====================================
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/)
+Get it from [ardushop.ro](https://ardushop.ro/ro/home/2657-groundstudio-dali-2.html)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Short description of the board.
+This module can be used to convert the logic signal of a microcontroller from 5V to DALI bus level (9.5 V - 22.5 V) and control lighting systems compatible with the DALI-2 communication protocol.
+It can be used together with a development board to control smart lighting systems that use the Dali-2 standard.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Dali-2/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Dali-2/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
