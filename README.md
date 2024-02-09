@@ -1,9 +1,6 @@
 GroundStudio Dali-2
 ====================================
-![groundstudio-dali-2](https://github.com/GroundStudio/GroundStudio_Dali-2/assets/77836107/e918852a-882e-44f3-a831-a9f41f2a5dab)
-
-
-
+![Dali-2 Module REV1 0 0](https://github.com/GroundStudio/GroundStudio_Dali-2/assets/77836107/38a1ef29-f3f9-4d78-8ea9-86e363789163)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/home/2657-groundstudio-dali-2.html)
 
