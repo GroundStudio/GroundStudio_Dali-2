@@ -30,3 +30,10 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000022.html)   
+   
+[![certification-mark-RO000022-wide](https://github.com/GroundStudio/GroundStudio_Dali-2/assets/77836107/24973500-4196-45e4-9c0d-604a626ed32f)
+](https://certification.oshwa.org/ro000022.html)
